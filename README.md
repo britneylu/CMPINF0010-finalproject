@@ -1,5 +1,5 @@
 ## greenest neighborhood
-### team name
+### team green
 
 britney lu - brl154@pitt.edu    
 mia schnelker - mis384@pitt.edu    
