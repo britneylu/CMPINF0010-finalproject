@@ -5,8 +5,8 @@ britney lu - brl154@pitt.edu
 mia schnelker - mis384@pitt.edu
 
 ### datasets
-allegheny county air quality - https://data.wprdc.org/dataset/allegheny-county-air-quality
-city of pittsburgh parks - https://data.wprdc.org/dataset/parks
+allegheny county air quality - https://data.wprdc.org/dataset/allegheny-county-air-quality \n
+city of pittsburgh parks - https://data.wprdc.org/dataset/parks \m
 more parks - https://data.wprdc.org/dataset/parks1
 city of pittsburgh trees - https://data.wprdc.org/dataset/city-trees
 
