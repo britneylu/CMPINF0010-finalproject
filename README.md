@@ -16,3 +16,4 @@ Our goal was to find out which neighborhood is the greenest - both ecologically 
 We used WPRDC datasets to compare sqft of greenery in parks and presence of trees, as well as the air quality in each neighborhood.
 
 ### Conclusion
+We concluded that Squirrel Hill South is the greenest neighborhood and Squirrel Hill North is the second greenest. Therefore, Squirrel Hill (as a whole) is the best/greenest neighborhood in Pittsburgh!
